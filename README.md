@@ -1,7 +1,5 @@
 ### Hi there friends👋. This is my github page.
 
-[![ElectroBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElectroBoi-Dev)](https://github.com/ElectroBoi-Dev/github-readme-stats)
-
 <!--
 **ElectroBoi-Dev/ElectroBoi-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
